@@ -1,0 +1,46 @@
+
+
+div#casulo {
+	 width: 1000px;
+	 margin: 0 auto; /* (top e battom) (left e right) */
+
+}
+
+body {
+	margin: 0;
+    background:;
+    background:url(aaaa.jpg);
+    text-align:center;
+}
+
+
+div#principal {
+	width:900px; 
+	float: left;
+	color: red;
+    background: rgba(192,192,192,0.7);
+}
+
+
+
+div#principal img {
+	width: 750px;
+}
+
+#Primeiro_menu {
+text-align:center;
+
+
+}	
+div#Primeiro_Menu {
+
+
+}
+#Principal, h3, span, h2 {
+color:black;
+width:600px;
+margin-left:150px
+}
+#casulo h1 {
+font-style:italic;
+font-family:'Pacifico', cursive;
